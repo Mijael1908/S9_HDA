@@ -1,0 +1,386 @@
+1. Blood Adv. 2024 Nov 12;8(21):5683-5694. doi: 10.1182/bloodadvances.2024013408.
+
+The impact of different doses of oral iron supplementation during pregnancy: a 
+pilot randomized trial.
+
+Stanworth SJ(1)(2)(3), Churchill D(4)(5), Sweity S(6), Holmes T(6), Hudson C(7), 
+Brown R(7), Lax SJ(8), Murray J(8), Spiby H(9), Roy N(2)(3), Farmer A(10), Gale 
+C(11)(12), Crayton E(13), Lorencatto F(13), Griffiths J(6), Mullings J(14), Last 
+S(14), Knight M(15).
+
+Author information:
+(1)Department of Haematology, National Health Service Blood and Transplant, 
+Oxford, United Kingdom.
+(2)Department of Haematology, Oxford University Hospitals National Health 
+Service Foundation Trust, Oxford, United Kingdom.
+(3)Radcliffe Department of Medicine, University of Oxford, Oxford, United 
+Kingdom.
+(4)Department of Obstetrics, The Royal Wolverhampton National Health Service 
+Trust, New Cross Hospital, Wolverhampton, United Kingdom.
+(5)Department of Obstetrics, Research Institute for Healthcare Science, 
+University of Wolverhampton, Wolverhampton, United Kingdom.
+(6)Department of Statistics and Clinical Research, National Health Service Blood 
+and Transplant Clinical Trials Unit, National Health Service Blood and 
+Transplant, Oxford, United Kingdom.
+(7)Department of Statistics and Clinical Research, National Health Service Blood 
+and Transplant Clinical Trials Unit, National Health Service Blood and 
+Transplant, Bristol, United Kingdom.
+(8)Nottingham Maternity Research Network, School of Health Sciences, University 
+of Nottingham, Nottingham, United Kingdom.
+(9)School of Health Sciences, University of Nottingham, Nottingham, United 
+Kingdom.
+(10)Nuffield Department of Primary Care Health Sciences, University of Oxford, 
+Oxford, United Kingdom.
+(11)Neonatal Medicine, School of Public Health, Imperial College London, Chelsea 
+and Westminster Hospital Campus, London, United Kingdom.
+(12)Centre for Paediatrics and Child Health, Imperial College, London, United 
+Kingdom.
+(13)Center for Behaviour Change, University College London, London, United 
+Kingdom.
+(14)Department of Statistics and Clinical Research, National Health Service 
+Blood and Transplant Clinical Trials Unit, National Health Service Blood and 
+Transplant, Cambridge, United Kingdom.
+(15)National Perinatal Epidemiology Unit, Nuffield Department of Population 
+Health, University of Oxford, Oxford, United Kingdom.
+
+Oral iron is first-line medication for iron deficiency anemia in pregnancy. We 
+conducted a pilot randomized trial to investigate the impact of different doses 
+of oral iron supplementation started early in pregnancy on women without anemia 
+for 4 main outcomes: recruitment and protocol compliance, adherence, maintenance 
+of maternal hemoglobin, and side effects. At antenatal clinic visits, 
+participants were allocated to 1 of 3 trial arms in a 1:1:1 ratio: 200 mg 
+ferrous sulfate daily, alternate days, or 3 times per week. The participants 
+were followed to delivery. Baseline characteristics of 300 recruited 
+participants were well matched between trial arms. The mean proportion of 
+tablets taken as expected per participant was 82.5% overall (72.3%, 89.6%, and 
+84.5% for the daily, alternate days, and 3 times a week arm, respectively). 
+There was a lower overall adherence rate in the daily arm (47%) than in the 
+alternate days (62%) and the 3 times per week (61%) arms. A reduction in 
+hemoglobin between randomization and 28 weeks' gestation seemed smaller for the 
+daily arm. A range of side effects were commonly reported at baseline before 
+starting interventions and at later antenatal visits. Many side effects of iron 
+overlapped with normal pregnancy symptoms. A daily iron dosing schedule might 
+give the best opportunity for delivering an adequate iron load during pregnancy 
+in women without anemia. Further randomized trials powered on clinical outcomes 
+are needed to establish the clinical effectiveness of oral iron supplementation 
+to prevent iron deficiency anemia. This study was registered (#ISRCTN12911644).
+
+© 2024 by The American Society of Hematology. Licensed under Creative Commons 
+Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0), 
+permitting only noncommercial, nonderivative use with attribution. All other 
+rights reserved.
+
+DOI: 10.1182/bloodadvances.2024013408
+PMCID: PMC11566866
+PMID: 39208353 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict-of-interest disclosure: The authors 
+declare no competing financial interests. A complete list of the members of the 
+PANDA Collaborator Group appears in “Appendix.”
+
+
+2. Am J Perinatol. 2025 Apr;42(6):699-707. doi: 10.1055/a-2405-1381. Epub 2024 Aug 
+29.
+
+Daily versus Alternate-Day Iron Supplementation for Pregnant Women with Iron 
+Deficiency Anemia: A Randomized Controlled Trial.
+
+Lam MC(1), Khandakar B(2), Heon I(2), Hussain F(3), Feldman K(3), Kaplowitz 
+E(3), Overbey JR(4), Brustman L(3), Rosenn B(5).
+
+Author information:
+(1)Division of Maternal Fetal Medicine, Department of Obstetrics and Gynecology, 
+Northshore University Hospital, Manhasset, New York.
+(2)Department of Pathology, Mount Sinai West, New York, New York.
+(3)Division of Maternal Fetal Medicine, Department of Obstetrics and Gynecology, 
+Mount Sinai West Hospital, New York, New York.
+(4)Department of Population Health Science and Policy, Icahn School of Medicine 
+at Mount Sinai, New York, New York.
+(5)Division of Maternal Fetal Medicine, Jersey City Medical Center, Jersey City, 
+New Jersey.
+
+This study aimed to evaluate the most effective regimen to raise hemoglobin (Hb) 
+by comparing alternate-day dosing of iron to daily dosing in pregnant women with 
+iron deficiency anemia. Women with Hb < 11.0 g/dL and ferritin ≤ 25 µg/L between 
+120/7 and 340/7 weeks' gestation were recruited. A total of 88 patients were 
+randomized using block randomization with 1:1 allocation to receive either 1 
+tablet of 325 mg ferrous sulfate on consecutive days or 2 tablets every other 
+day. The primary outcome, the change in Hb after 6 weeks of treatment was 
+assessed using an analysis of covariance to adjust for baseline level. Secondary 
+outcomes included change in ferritin, hepcidin, side effects, and compliance. 
+Patients completed a questionnaire to assess for adverse symptoms and adherence 
+was monitored by installing a pill reminder app on smartphones of patients. A 
+total of 88 patients were consented. The daily iron group had a greater 
+proportion of nulliparous women (40 vs. 7%). Most patients (98%) had mild anemia 
+(Hb: 9-10.9 g/dL) at recruitment, with a median gestational age of 28.1 weeks 
+(interquartile range [IQR]: 25.6, 30.9) and median duration of treatment of 42 
+days (IQR: 35, 45). At 6 weeks, the daily iron group had a mean increase in Hb 
+of 0.8 ± 0.9 g/dL, whereas the alternate-day iron group had a mean increase of 
+0.5 ± 1.0 g/dL (baseline adjusted difference of means: -0.3 [95% confidence 
+interval: -0.7, 0.1], p = 0.15). Frequency of adverse effects attributable to 
+iron were similar between groups. Patient self-reported compliance to treatment 
+was also similar between groups. Among those that used the app, compliance was 
+higher among the daily group compared with the alternate daily group (median: 
+95.5% [IQR: 75, 100] vs. 85% [IQR: 40, 92]), although this difference was not 
+statistically significant (p = 0.07). This trial suggests that there are no 
+significant differences between alternate-day iron supplementation and daily 
+iron supplementation for treating iron deficiency anemia. · Intermittent iron 
+provides no additional benefit compared to daily iron in the treatment of 
+anemia.. · Patient compliance to treatment was similar between the groups.. · 
+The frequency of side effects was not significantly different between the 
+groups..
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/a-2405-1381
+PMID: 39209303 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared.
+
+
+3. BMC Pregnancy Childbirth. 2022 Mar 3;22(1):179. doi: 10.1186/s12884-022-04507-3.
+
+The effect of blister packaging Iron and Folate on adherence to medication and 
+hemoglobin levels among pregnant women at National Referral Hospital antenatal 
+clinics in a low to middle income country: a Randomised Controlled Trial (The 
+IFAd Trial).
+
+Byamugisha J(1), Adero N(2), Kiwanuka TS(3)(4), Nalwadda CK(5), Ntuyo P(6), 
+Namagembe I(6), Nabunya E(6), Nakirijja E(6), Mwadime-Ngolo R(2), Mukasa DC(7), 
+Ononge S(8).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, College of Health Sciences Makerere 
+University, P.O Box 7072, Kampala, Uganda. jbyamugisha@gmail.com.
+(2)JSI Research & Training Institute Inc., Boston, USA.
+(3)Baylor College of Medicine COE, Kampala, Uganda.
+(4)Mengo Hospital, Kampala, Uganda.
+(5)School of Public Health, College of Health Sciences, Makerere University, 
+Kampala, Uganda.
+(6)Directorate of Obstetrics and Gynecology, Mulago National Referral Hospital, 
+Kampala, Uganda.
+(7)University Hospital, Makerere University, Kampala, Uganda.
+(8)Department of Obstetrics and Gynecology, College of Health Sciences Makerere 
+University, P.O Box 7072, Kampala, Uganda.
+
+INTRODUCTION: Anemia in pregnancy is an important global public health problem. 
+It is estimated that 38% of pregnant women worldwide are anemic. In Africa, 
+literature from observational studies show 20% of maternal deaths are attributed 
+to anemia. In Uganda, 50% of pregnant women have iron deficiency anaemia. The 
+proportion of pregnant women receiving Iron-Folic acid (IFA) supplementation has 
+improved. However, the number of IFA pills consumed is still low. We carried out 
+a randomized controlled trial to determine the effect of dispensing blister and 
+loose packaged IFA pills on adherence measured by count on next return visit and 
+hemoglobin levels among pregnant women at two National Referral Hospitals in 
+Kampala, Uganda.
+METHODS: This trial was conducted between April and October 2016. Nine hundred 
+fifty pregnant women at ≤28 weeks were randomized to either the blister 
+(intervention arm) or loose (control arm) packaged IFA. The participants 
+completed the baseline measurements and received 30 pills of IFA at enrolment to 
+swallow one pill per day. We assessed adherence by pill count and measured 
+hemoglobin at four and 8 weeks. The results were presented using both 
+intention-to-treat and per-protocol analysis.
+RESULTS: There were 474 participants in the control and 478 in the intervention 
+arms. Adherence to IFA intake was similar in the two groups at 4th week (40.6 
+and 39.0%, p = 0.624) and 8th week (51.9 and 46.8%, p = 0.119). The mean 
+hemoglobin level at 4 weeks was higher in the blister than in the loose 
+packaging arms (11.9 + 1.1 g/dl and 11.8 + 1.3 g/dl, respectively; p = 0.02), 
+however, similar at week 8 (12.1 + 1.2 and 12.0 + 1.3, respectively; p = 0.23). 
+However, over the 8-week period blister packaging arm had a higher change in 
+hemoglobin level compared to loose package (blister package 0.6 ± 1.0; loose 
+packaging 0.2 ± 1.1; difference: 0.4 g/dL (95% CI: 0.24-0.51 g/dL); p = 0.001. 
+There were no serious adverse events.
+CONCLUSIONS: Our results showed no effect of blister packaging on IFA adherence 
+among pregnant women. However, our findings showed that blister packaged group 
+had a higher hemoglobin increase compared to loose iron group.
+TRIAL REGISTRATION: No. PACTR201707002436264 (20 /07/ 2017).
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12884-022-04507-3
+PMCID: PMC8895867
+PMID: 35241006 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+4. J Obstet Gynaecol. 2021 Nov;41(8):1210-1215. doi: 10.1080/01443615.2020.1856056. 
+Epub 2021 Mar 1.
+
+Efficacy of a 28-compartment pillbox for improving iron supplement compliance in 
+healthy pregnant women: a randomised controlled trial.
+
+Rattanapiratanon A(1), Kongsomboon K(2), Hanprasertpong T(1).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Faculty of Medicine, 
+Srinakharinwirot University, Ongkharak, Thailand.
+(2)Department of Preventive and Social Medicine, Faculty of Medicine, 
+Srinakharinwirot University, Ongkharak, Thailand.
+
+A randomised controlled trial was conducted. The primary objective was to 
+evaluate the efficacy of a pillbox for increasing iron supplement compliance by 
+comparing the proportion of pregnant women who had no remaining iron tablets 
+between pregnant women attending ANC who were given a pillbox to use and women 
+with no pillbox in four-week period between ANC visits. The secondary objective 
+was to evaluate the reasons for poor compliance and possible factors associated 
+with the non-compliance. One hundred and ninety pregnant women were enrolled, 95 
+participants were randomised into each of the groups. The proportion of pregnant 
+women who had no remaining iron tablets at the end was statistically 
+significantly lower in the pillbox group than in the control group [53.3% and 
+23.1%, respectively, p < .001, RR2.308 (95% CI 1.515 - 3.517)]. The most common 
+reason given for having of iron tablets remaining was forgetfulness. The visual 
+analog scale (VAS) scores indicated that patient's responsibility feeling, 
+duration of sleep each day and presence of a handicapped or small child in care 
+significantly influenced the proportion of pregnant women who had remaining iron 
+tablets at the end in both groups. We concluded that a pillbox was found to be 
+an effective tool for improving pregnant women's compliance with taking their 
+iron supplements.IMPACT STATEMENTWhat is already known about this subject? 
+Antenatal care (ANC) influences maternal and neonatal outcomes. The incidence of 
+anaemia in pregnant women is reported to be around 42% and approximately 50% 
+result from iron deficiency. Maternal anaemia increases the risk of foetal low 
+birth weight, preterm birth, perinatal mortality, stillbirth and maternal 
+mortality.What do the results of this study add? The 28-compartment pillbox is 
+effective for improving iron supplement compliance in healthy pregnant women. 
+Forgetfulness is the most common reason given for having remaining iron tablets. 
+The lower score on the visual analog scale of patient's feeling of 
+responsibility, long duration of sleep a day and the presence of a handicapped 
+or small child in their care were significantly associated with having remaining 
+iron tablets.What are the implications are of these finding for clinical 
+practice and/or further research? The 28-compartment pillbox can be implied to 
+routine antenatal care for improving iron supplement compliance in healthy 
+pregnant women. Health care providers should be reminded to encourage compliance 
+with iron supplement prescription in pregnant women who are at risk of poor 
+compliance as indicated by low VAS of the patient's feeling of responsibility, 
+long duration of sleep in a day and pregnant women who have responsibility to 
+take care of handicapped or small children.
+
+DOI: 10.1080/01443615.2020.1856056
+PMID: 33645407 [Indexed for MEDLINE]
+
+
+5. Front Endocrinol (Lausanne). 2023 Oct 9;14:1288347. doi: 
+10.3389/fendo.2023.1288347. eCollection 2023.
+
+Tailored pharmacist-led intervention to improve adherence to Iron 
+supplementation in premature infants: a randomized controlled trial in China.
+
+Yu B(1)(2), Ni M(1)(3), Li H(1), Xu R(1)(3), Wang A(4).
+
+Author information:
+(1)Shaoxing Key Laboratory of Reproductive Health, Shaoxing Maternity and Child 
+Health Care Hospital, Shaoxing, Zhejiang, China.
+(2)Neonatal Intensive Care Unit, Shaoxing Maternity and Child Health Care 
+Hospital, Shaoxing, Zhejiang, China.
+(3)Department of Clinical Pharmacy, Shaoxing Maternity and Child Health Care 
+Hospital, Shaoxing, Zhejiang, China.
+(4)Gynecological Fifth Ward, Shaoxing Maternity and Child Health Care Hospital, 
+Shaoxing, Zhejiang, China.
+
+INTRODUCTION: Prematurity is due to a number of factors, especially genetics. 
+This study was designed to evaluate the impact of a pharmacist-led 
+patient-centered medication therapy management trial on iron deficiency and 
+medication adherence among premature infants receiving iron supplementation at a 
+tertiary hospital in Shaoxing, China.
+METHODS: In this randomised controlled trial, eighty-one premature infants, with 
+or without genetic factors, born at 26 to 30 weeks and 6 days gestational age, 
+will be recruited and randomised to an intervention group or a control group. 
+The intervention group will receive a pharmacist-driven discharge counseling on 
+iron supplements from recruitment, until 12 months. The control group will 
+receive care as usual. The main outcomes were haemoglobin (g/L), serum iron 
+(μg/L), medication adherence estimation and differentiation scale, the 
+satisfaction with information about medicines scale, beliefs about medicines 
+questionnaire and the Bayley scales for infant development.
+RESULTS: A total of 81 patients were enrolled in the study. After intervention, 
+results for the haemoglobin and serum iron differed significantly between the 
+control group and the intervention group (101.36 vs. 113.55, P < 0.0001 and 
+51.13 vs. 101.36, P = 0.004). Additionally, there was a substantial difference 
+between the intervention group and the control group in terms of patient 
+medication adherence estimation and differentiation scale (27 vs. 34, P = 
+0.0002). the intervention group had better mental development index and 
+psychomotor development index, compared with the control group (91.03 vs. 87.29, 
+P = 0.035 and 95.05 vs. 90.00, P = 0.022).
+DISCUSSION: In premature infants with iron deficiency, our pharmacist-led team 
+significantly improved clinical outcomes and medication adherence.
+
+Copyright © 2023 Yu, Ni, Li, Xu and Wang.
+
+DOI: 10.3389/fendo.2023.1288347
+PMCID: PMC10591074
+PMID: 37876544 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+6. Am J Clin Nutr. 2025 Jul;122(1):166-173. doi: 10.1016/j.ajcnut.2025.04.033. Epub 
+2025 May 5.
+
+Assessing the adherence and acceptability to iron and folic acid compared with 
+multiple micronutrient supplements during pregnancy: a cluster-randomized 
+noninferiority trial in Cambodia.
+
+Sauer C(1), Hoang MA(2), Kroeun H(3), Gupta AS(4), Ngik R(3), Sokchea M(3), 
+Labonté JM(5), Chea M(6), Klemm R(7), Mishra A(8), Panicker A(8), Sokhal V(8), 
+Karakochuk CD(9).
+
+Author information:
+(1)Food, Nutrition & Health, The University of British Columbia, Vancouver, BC, 
+Canada; Healthy Starts, BC Children's Hospital Research Institute, Vancouver, 
+BC, Canada.
+(2)Helen Keller International, New York, NY, United States.
+(3)Helen Keller International, Phnom Penh, Cambodia.
+(4)Helen Keller International, Lalitpur, Nepal.
+(5)Interdisciplinary School of Health Sciences, University of Ottawa, Ottawa, 
+Canada.
+(6)National Nutrition Program, Ministry of Health, Phnom Penh, Cambodia.
+(7)Helen Keller International, New York, NY, United States; International 
+Health, John Hopkins Bloomberg School of Public Health, Baltimore, MD, United 
+States.
+(8)Vitamin Angel Alliance, Santa Barbara, CA, United States.
+(9)Food, Nutrition & Health, The University of British Columbia, Vancouver, BC, 
+Canada; Healthy Starts, BC Children's Hospital Research Institute, Vancouver, 
+BC, Canada. Electronic address: crystal.karakochuk@ubc.ca.
+
+BACKGROUND: The Cambodian Ministry of Health is exploring transitioning from 
+iron and folic acid (IFA) to multiple micronutrient supplements (MMS) during 
+pregnancy and is seeking rigorous evidence to inform this policy change.
+OBJECTIVE: We aimed to assess the adherence and acceptability of MMS compared 
+with IFA supplementation during pregnancy.
+METHODS: We conducted an open-label cluster-randomized noninferiority trial 
+across 48 health centers in Cambodia. A total of 1546 healthy pregnant 
+individuals (18-45 y) were recruited at their first antenatal care (ANC) visit 
+(<14 weeks of gestation) and randomized to 1 of 3 arms at the health center 
+level: 1) IFA for 90 d (IFA-90, n = 515), the current standard of care; 2) MMS 
+for 180 d via 1 180-tablet bottle (MMS-180, n = 516); or 3) MMS for 180 d via 2 
+90-tablet bottles (MMS-90, n = 515). Our primary outcome was the noninferiority 
+of adherence rates of MMS-180 compared with IFA-90, assessed by tablet counts 
+and compared against a predefined noninferiority margin of -15%. Mixed-effects 
+linear regression models were used to estimate the mean difference (95% 
+confidence interval [95% CI]) in adherence rates. Our secondary outcomes 
+included the mean difference in ANC attendance between the MMS groups and the 
+acceptability of MMS across 6 domains.
+RESULTS: Overall, 88% of participants completed the trial, with high mean 
+adherence rates across arms (91% for IFA-90, 95% for MMS-180, and 95% for 
+MMS-90). The adjusted mean (95% CI) difference in adherence rates between 
+MMS-180 and IFA-90 groups was 3.9% (1.7, 6.2). The adjusted mean (95% CI) 
+difference in ANC visits for MMS-180 and MMS-90 groups was 0.0 (-0.1, 0.2) 
+visits. The acceptability of MMS was positive (90%-100% "agreement" across 6 
+domains).
+CONCLUSIONS: Both IFA and MMS were highly acceptable, yet adherence to MMS was 
+superior to IFA. These findings support the transition from IFA to MMS in 
+Cambodia. This trial was registered at Clinicaltrials.gov as NCT05867836.
+
+Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajcnut.2025.04.033
+PMCID: PMC12308091
+PMID: 40334750 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest AM, AP., and VS. report a 
+relationship with Vitamin Angel Alliance Inc that includes employment. CDK. 
+reports a relationship with Helen Keller International that includes consulting 
+or advisory, nonfinancial support, and travel reimbursement. All other authors 
+report no conflicts of interest.
